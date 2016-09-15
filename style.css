@@ -1,0 +1,54 @@
+.navbar {
+  font-family:Exo;
+  font-size:1.25em;
+  background-color:white;
+}
+
+.jumbotron{
+  background-color:#9099a2;
+  height:400px;
+  opacity:.7;
+}
+
+body{
+  background-color:#d5d5d5;
+  color:white;
+}
+
+h1 {
+  padding-top:5%;
+  margin-top:0px;
+  font-size:5.00em;
+}
+
+.btn-default{
+  background-color:#657993;
+  color:#d5d5d5;
+  border:none;
+  font-size:1.25em;
+  opacity:.9;
+}
+
+.pageOne{
+  background:url("https://hd.unsplash.com/photo-1423034816855-245e5820ff8c");
+  background-size:cover;
+  height:800px;
+  font-family:Exo;
+  
+}
+
+.pageTwo {
+  background:url("https://hd.unsplash.com/photo-1442551382982-e59a4efb3c86");
+  background-size:cover;
+  height:800px;
+  font-family:Exo;
+  padding-top:20%;
+  padding-left:5%;
+  color:white;
+  
+  
+}
+.myPhoto{
+  padding-left:10%;
+}
+
